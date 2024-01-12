@@ -1,0 +1,2612 @@
+{
+   "001":{
+      "Name":"Orchynx",
+      "Type":{
+         "Primary":"Grass",
+         "Secondary":"Steel"
+      },
+      "Evolutions":{
+         "1":"002 - Metalynx"
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":"Starter from Prof. Bambo'o. Given by the Professor for 150 dex entries if player chose Eletux."
+   },
+   "002":{
+      "Name":"Metalynx",
+      "Type":{
+         "Primary":"Grass",
+         "Secondary":"Steel"
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         "1":"001 - Orchynx"
+      },
+      "Obtaining":"Evolve Orchynx"
+   },
+   "003":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "004":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "005":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "006":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "007":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "008":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "009":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "010":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "011":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "012":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "013":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "014":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "015":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "016":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "017":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "018":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "019":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "020":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "021":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "022":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "023":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "024":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "025":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "026":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "027":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "028":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "029":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "030":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "031":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "032":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "033":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "034":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "035":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "036":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "037":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "038":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "039":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "040":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "041":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "042":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "043":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "044":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "045":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "046":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "047":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "048":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "049":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "050":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "051":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "052":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "053":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "054":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "055":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "056":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "057":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "058":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "059":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "060":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "061":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "062":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "063":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "064":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "065":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "066":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "067":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "068":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "069":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "070":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "071":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "072":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "073":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "074":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "075":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "076":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "077":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "078":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "079":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "080":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "081":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "082":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "083":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "084":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "085":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "086":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "087":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "088":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "089":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "090":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "091":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "092":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "093":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "094":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "095":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "096":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "097":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "098":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "099":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "100":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "101":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "102":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "103":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "104":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "105":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "106":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "107":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "108":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "109":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "110":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "111":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "112":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "113":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "114":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "115":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "116":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "117":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "118":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "119":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "120":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "121":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "122":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "123":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "124":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "125":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "126":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "127":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "128":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "129":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "130":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "131":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "132":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "133":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "134":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "135":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "136":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "137":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "138":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "139":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "140":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "141":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "142":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "143":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "144":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "145":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "146":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "147":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "148":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "149":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "150":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "151":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "152":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "153":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "154":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "155":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "156":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "157":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "158":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "159":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "160":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "161":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "162":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "163":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "164":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "165":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "166":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "167":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "168":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "169":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "170":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "171":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "172":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "173":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "174":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "175":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "176":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "177":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "178":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "179":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "180":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "181":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "182":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "183":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "184":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "185":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "186":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "187":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "188":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "189":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "190":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "191":{
+      "Name":"",
+      "Type":{
+         
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":""
+   },
+   "192":{
+      "Name":"Baitatao",
+      "Type":{
+         "Primary":"Water",
+         "Secondary":"Fire"
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":"This Pokemon cannot be obtained."
+   },
+   "193":{
+      "Name":"Leviathao",
+      "Type":{
+         "Primary":"Water",
+         "Secondary":"Ice"
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":"Not currently released."
+   },
+   "194":{
+      "Name":"Krakanao",
+      "Type":{
+         "Primary":"Water",
+         "Secondary":"Dark"
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":"Currently unreleased."
+   },
+   "195":{
+      "Name":"Lanthan",
+      "Type":{
+         "Primary":"Ground",
+         "Secondary":"Steel"
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":"Caught in the Lanthanite Core"
+   },
+   "196":{
+      "Name":"Actan",
+      "Type":{
+         "Primary":"Dark",
+         "Secondary":"Steel"
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":"Caught in Victory Road (Actanite Core Waterfall)"
+   },
+   "197":{
+      "Name":"Urayne",
+      "Type":{
+         "Primary":"Nuclear"
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":"Caught at Uranium Core"
+   },
+   "198":{
+      "Name":"Aotius",
+      "Type":{
+         "Primary":"Flying",
+         "Secondary":"Fire"
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":"Currently unreleased"
+   },
+   "199":{
+      "Name":"Mutios",
+      "Type":{
+         "Primary":"Ghost",
+         "Secondary":"Water"
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":"Currently unreleased."
+   },
+   "200":{
+      "Name":"Zephy",
+      "Type":{
+         "Primary":"Electric",
+         "Secondary":"Ice"
+      },
+      "Evolutions":{
+         
+      },
+      "Preevoluitons":{
+         
+      },
+      "Obtaining":"Currently unreleased."
+   }
+}
