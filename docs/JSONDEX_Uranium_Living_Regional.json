@@ -1282,7 +1282,7 @@
    },
    "099":{
       "Name":"",
-      "Type":{cu
+      "Type":{
          
       },
       "Evolutions":{
@@ -2474,7 +2474,6 @@
       },
       "Preevoluitons":{
          "1":"040 - Smore, 048 - Sponee, 063 - Tricwe"
-         
       },
       "Obtaining":"Evolve female 040 - Smore, 048 - Sponee, or 063 - Tricwe by reaching level 45 while holding Royal Jelly"
    },
