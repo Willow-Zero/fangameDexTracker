@@ -2459,22 +2459,25 @@
       "Obtaining":""
    },
    "190":{
-      "Name":"",
+      "Name":"Seikamater",
       "Type":{
-         
+         "Primary":"Bug",
+         "Secondary":"Normalfirs"
       },
       "Evolutions":{
          
       },
       "Preevoluitons":{
+         "1":"040 - Smore, 048 - Sponee, 063 - Tricwe"
          
       },
-      "Obtaining":""
+      "Obtaining":"Evolve female 040 - Smore, 048 - Sponee, or 063 - Tricwe by reaching level 45 while holding Royal Jelly"
    },
    "191":{
-      "Name":"",
+      "Name":"Garlikid",
       "Type":{
-         
+         "Primary":"Grass",
+         "Secondary":"Fighting"
       },
       "Evolutions":{
          
@@ -2482,7 +2485,7 @@
       "Preevoluitons":{
          
       },
-      "Obtaining":""
+      "Obtaining":"Reward for completing the side quest in Silverport Town"
    },
    "192":{
       "Name":"Baitatao",
