@@ -25,88 +25,93 @@
       "Preevoluitons":{
          "1":"001 - Orchynx"
       },
-      "Obtaining":"Evolve Orchynx"
+      "Obtaining":"Evolve Orchynx at level 28"
    },
    "003":{
-      "Name":"",
+      "Name":"Raptorch",
       "Type":{
-         
+         "Primary":"Fire",
+         "Secondary":"Ground"
       },
       "Evolutions":{
-         
+         "1":"004 - Archilles"
       },
       "Preevoluitons":{
          
       },
-      "Obtaining":""
+      "Obtaining":"Starter Pokémon from Professor Bamb'o in Moki Town, gift from Bamb'o for obtaining 150 Pokémon (if Orchynx was chosen)."
    },
    "004":{
       "Name":"",
       "Type":{
-         
+         "Primary":"Fire",
+         "Secondary":"Ground"
       },
       "Evolutions":{
          
       },
       "Preevoluitons":{
-         
+         "1":"003 - Raptorch"
       },
-      "Obtaining":""
+      "Obtaining":"Evolve Raptorch at level 29"
    },
    "005":{
-      "Name":"",
+      "Name":"Eletux",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Electric"
       },
       "Evolutions":{
-         
+         "1":"003 - Raptorch"
       },
       "Preevoluitons":{
          
       },
-      "Obtaining":""
+      "Obtaining":"Starter Pokémon from Professor Bamb'o in Moki Town. Given by Professor Bamb'o in Moki Town if you show him a PokéDex with at least 150 Pokémon data if you chose Raptorch as your Starter Pokémon."
    },
    "006":{
-      "Name":"",
+      "Name":"Electruxo",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Electric"
       },
       "Evolutions":{
          
       },
       "Preevoluitons":{
-         
+         "1":"003 - Raptorch"
       },
-      "Obtaining":""
+      "Obtaining":"Evolve Eletux at level 27"
    },
    "007":{
-      "Name":"",
+      "Name":"Chyinmunk",
       "Type":{
-         
+         "Primary":"Normal"
       },
       "Evolutions":{
-         
+         "1":"008 - Kinetmunk"
       },
       "Preevoluitons":{
          
       },
-      "Obtaining":""
+      "Obtaining":"Moki Town, Route 1, Route 2. Nuclear Plant Epsilon (Nuclear)"
    },
    "008":{
-      "Name":"",
+      "Name":"Kinetmunk",
       "Type":{
-         
+         "Primary":"Normal",
+         "Secondary":"Electric"
       },
       "Evolutions":{
          
       },
       "Preevoluitons":{
-         
+         "1":"007 - Chyinmunk"
       },
-      "Obtaining":""
+      "Obtaining":"Moki Town, Route 1, Route 2. Nuclear Plant Epsilon (Nuclear). Evolve from Chyinmunk at level 14"
    },
    "009":{
-      "Name":"",
+      "Name":"Birbie",
       "Type":{
          
       },
@@ -119,7 +124,7 @@
       "Obtaining":""
    },
    "010":{
-      "Name":"",
+      "Name":"Aveden",
       "Type":{
          
       },
@@ -129,10 +134,10 @@
       "Preevoluitons":{
          
       },
-      "Obtaining":""
+      "Obtaining":"Route 05"
    },
    "011":{
-      "Name":"",
+      "Name":"Splendifowl",
       "Type":{
          
       },
@@ -145,7 +150,7 @@
       "Obtaining":""
    },
    "012":{
-      "Name":"",
+      "Name":"Cubbug",
       "Type":{
          
       },
@@ -158,7 +163,7 @@
       "Obtaining":""
    },
    "013":{
-      "Name":"",
+      "Name":"Cubblfly",
       "Type":{
          
       },
@@ -171,7 +176,7 @@
       "Obtaining":""
    },
    "014":{
-      "Name":"",
+      "Name":"Nimflora",
       "Type":{
          
       },
@@ -184,7 +189,7 @@
       "Obtaining":""
    },
    "015":{
-      "Name":"",
+      "Name":"Barewl",
       "Type":{
          
       },
@@ -197,7 +202,7 @@
       "Obtaining":""
    },
    "016":{
-      "Name":"",
+      "Name":"Dearwl",
       "Type":{
          
       },
@@ -210,7 +215,7 @@
       "Obtaining":""
    },
    "017":{
-      "Name":"",
+      "Name":"Gararewl",
       "Type":{
          
       },
@@ -223,7 +228,7 @@
       "Obtaining":""
    },
    "018":{
-      "Name":"",
+      "Name":"Grozard",
       "Type":{
          
       },
@@ -236,7 +241,7 @@
       "Obtaining":""
    },
    "019":{
-      "Name":"",
+      "Name":"Terlard",
       "Type":{
          
       },
@@ -249,7 +254,7 @@
       "Obtaining":""
    },
    "020":{
-      "Name":"",
+      "Name":"Tonemy",
       "Type":{
          
       },
@@ -262,7 +267,7 @@
       "Obtaining":""
    },
    "021":{
-      "Name":"",
+      "Name":"Tofurang",
       "Type":{
          
       },
@@ -275,7 +280,7 @@
       "Obtaining":""
    },
    "022":{
-      "Name":"",
+      "Name":"Dunsparce",
       "Type":{
          
       },
@@ -288,7 +293,7 @@
       "Obtaining":""
    },
    "023":{
-      "Name":"",
+      "Name":"Dunseraph",
       "Type":{
          
       },
@@ -1277,7 +1282,7 @@
    },
    "099":{
       "Name":"",
-      "Type":{
+      "Type":{cu
          
       },
       "Evolutions":{
@@ -1926,7 +1931,7 @@
       "Obtaining":""
    },
    "149":{
-      "Name":"",
+      "Name":"Pufluff",
       "Type":{
          
       },
@@ -1939,7 +1944,7 @@
       "Obtaining":""
    },
    "150":{
-      "Name":"",
+      "Name":"Alpico",
       "Type":{
          
       },
@@ -1952,7 +1957,7 @@
       "Obtaining":""
    },
    "151":{
-      "Name":"",
+      "Name":"Anderind",
       "Type":{
          
       },
@@ -1965,7 +1970,7 @@
       "Obtaining":""
    },
    "152":{
-      "Name":"",
+      "Name":"Colarva",
       "Type":{
          
       },
@@ -1978,7 +1983,7 @@
       "Obtaining":""
    },
    "153":{
-      "Name":"",
+      "Name":"Frosulo",
       "Type":{
          
       },
@@ -1991,7 +1996,7 @@
       "Obtaining":""
    },
    "154":{
-      "Name":"",
+      "Name":"Frosthra",
       "Type":{
          
       },
@@ -2004,7 +2009,7 @@
       "Obtaining":""
    },
    "155":{
-      "Name":"",
+      "Name":"Fafurr",
       "Type":{
          
       },
@@ -2017,7 +2022,7 @@
       "Obtaining":""
    },
    "156":{
-      "Name":"",
+      "Name":"Fafninter",
       "Type":{
          
       },
@@ -2030,7 +2035,7 @@
       "Obtaining":""
    },
    "157":{
-      "Name":"",
+      "Name":"Shrimputy",
       "Type":{
          
       },
@@ -2043,7 +2048,7 @@
       "Obtaining":""
    },
    "158":{
-      "Name":"",
+      "Name":"Krilvolver",
       "Type":{
          
       },
@@ -2056,7 +2061,7 @@
       "Obtaining":""
    },
    "159":{
-      "Name":"",
+      "Name":"Lavent",
       "Type":{
          
       },
@@ -2069,7 +2074,7 @@
       "Obtaining":""
    },
    "160":{
-      "Name":"",
+      "Name":"Swabone",
       "Type":{
          
       },
@@ -2082,7 +2087,7 @@
       "Obtaining":""
    },
    "161":{
-      "Name":"",
+      "Name":"Skelerogue",
       "Type":{
          
       },
@@ -2095,7 +2100,7 @@
       "Obtaining":""
    },
    "162":{
-      "Name":"",
+      "Name":"Navighast",
       "Type":{
          
       },
@@ -2108,7 +2113,7 @@
       "Obtaining":""
    },
    "163":{
-      "Name":"",
+      "Name":"Stenowatt",
       "Type":{
          
       },
@@ -2121,7 +2126,7 @@
       "Obtaining":""
    },
    "164":{
-      "Name":"",
+      "Name":"Jungore",
       "Type":{
          
       },
@@ -2134,7 +2139,7 @@
       "Obtaining":""
    },
    "165":{
-      "Name":"",
+      "Name":"Majungold",
       "Type":{
          
       },
@@ -2147,7 +2152,7 @@
       "Obtaining":""
    },
    "166":{
-      "Name":"",
+      "Name":"Haagoop",
       "Type":{
          
       },
@@ -2160,7 +2165,7 @@
       "Obtaining":""
    },
    "167":{
-      "Name":"",
+      "Name":"Haagross",
       "Type":{
          
       },
@@ -2173,7 +2178,7 @@
       "Obtaining":""
    },
    "168":{
-      "Name":"",
+      "Name":"Xenomite",
       "Type":{
          
       },
@@ -2186,7 +2191,7 @@
       "Obtaining":""
    },
    "169":{
-      "Name":"",
+      "Name":"Xenogen",
       "Type":{
          
       },
@@ -2199,7 +2204,7 @@
       "Obtaining":""
    },
    "170":{
-      "Name":"",
+      "Name":"Xenoqueen",
       "Type":{
          
       },
@@ -2212,7 +2217,7 @@
       "Obtaining":""
    },
    "171":{
-      "Name":"",
+      "Name":"Hazma",
       "Type":{
          
       },
@@ -2225,7 +2230,7 @@
       "Obtaining":""
    },
    "172":{
-      "Name":"",
+      "Name":"Geigeroach",
       "Type":{
          
       },
@@ -2238,7 +2243,7 @@
       "Obtaining":""
    },
    "173":{
-      "Name":"",
+      "Name":"Minicorn",
       "Type":{
          
       },
@@ -2251,7 +2256,7 @@
       "Obtaining":""
    },
    "174":{
-      "Name":"",
+      "Name":"Kiricorn",
       "Type":{
          
       },
@@ -2264,7 +2269,7 @@
       "Obtaining":""
    },
    "175":{
-      "Name":"",
+      "Name":"Oblivicorn",
       "Type":{
          
       },
@@ -2277,7 +2282,7 @@
       "Obtaining":""
    },
    "176":{
-      "Name":"",
+      "Name":"Luxi",
       "Type":{
          
       },
@@ -2290,7 +2295,7 @@
       "Obtaining":""
    },
    "177":{
-      "Name":"",
+      "Name":"Luxor",
       "Type":{
          
       },
@@ -2303,7 +2308,7 @@
       "Obtaining":""
    },
    "178":{
-      "Name":"",
+      "Name":"Luxelong",
       "Type":{
          
       },
@@ -2316,7 +2321,7 @@
       "Obtaining":""
    },
    "179":{
-      "Name":"",
+      "Name":"Praseopunk",
       "Type":{
          
       },
@@ -2329,7 +2334,7 @@
       "Obtaining":""
    },
    "180":{
-      "Name":"",
+      "Name":"Neopunk",
       "Type":{
          
       },
@@ -2342,7 +2347,7 @@
       "Obtaining":""
    },
    "181":{
-      "Name":"",
+      "Name":"Sheebit",
       "Type":{
          
       },
@@ -2355,7 +2360,7 @@
       "Obtaining":""
    },
    "182":{
-      "Name":"",
+      "Name":"Terrabbit",
       "Type":{
          
       },
@@ -2368,7 +2373,7 @@
       "Obtaining":""
    },
    "183":{
-      "Name":"",
+      "Name":"Laissure",
       "Type":{
          
       },
@@ -2381,7 +2386,7 @@
       "Obtaining":""
    },
    "184":{
-      "Name":"",
+      "Name":"Volchik",
       "Type":{
          
       },
@@ -2394,7 +2399,7 @@
       "Obtaining":""
    },
    "185":{
-      "Name":"",
+      "Name":"Voltasu",
       "Type":{
          
       },
@@ -2407,7 +2412,7 @@
       "Obtaining":""
    },
    "186":{
-      "Name":"",
+      "Name":"Yatagaryu",
       "Type":{
          
       },
@@ -2420,7 +2425,7 @@
       "Obtaining":""
    },
    "187":{
-      "Name":"",
+      "Name":"Devimp",
       "Type":{
          
       },
@@ -2433,7 +2438,7 @@
       "Obtaining":""
    },
    "188":{
-      "Name":"",
+      "Name":"Fallengel",
       "Type":{
          
       },
@@ -2446,7 +2451,7 @@
       "Obtaining":""
    },
    "189":{
-      "Name":"",
+      "Name":"Beladdon",
       "Type":{
          
       },
