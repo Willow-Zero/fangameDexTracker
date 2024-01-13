@@ -1,4 +1,4 @@
-dexJSONURL="https://raw.githubusercontent.com/ZerosLab/fangameDexTracker/main/docs/dex.json"
+dexJSONURL="dex.json"
 
 newtable="<table><tr>"
 
@@ -9,7 +9,7 @@ const type = urlParams.get('type');
 const level = urlParams.get('level');
 inc = 0;
 fullDexURL = "JSONDEX_" + game + "_" + type + "_" + level + ".json"
-fullDexURL = "https://raw.githubusercontent.com/ZerosLab/fangameDexTracker/main/docs/JSONDEX_Uranium_Living_Regional.json"
+fullDexURL = "JSONDEX_Uranium_Living_Regional.json"
 $.getJSON(fullDexURL, function(Data){
 //console.log(Data);
 $.getJSON(dexJSONURL, function(dex){
