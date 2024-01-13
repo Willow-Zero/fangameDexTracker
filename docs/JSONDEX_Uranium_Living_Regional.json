@@ -1,4 +1,4 @@
-[
+{"dex":[
    "001":{
       "Name":"Orchynx",
       "Type":{
@@ -2610,3 +2610,4 @@
       "Obtaining":"Currently unreleased."
    }
 ]
+}
