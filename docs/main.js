@@ -38,7 +38,7 @@ $.getJSON(dexJSONURL, function(dex){
     if (i%6==0){
       newtable+="</tr><tr>"}
     if (i%30 == 0){
-      newtable += "</tr><tr><td colspan=6> " + i + "-" + (i+30) + "</tr><tr>"}
+      newtable += "</tr><tr><td colspan=6> " + i + "-" + (int(i)+30) + "</tr><tr>"}
     
   }
   document.getElementById("dex").innerHTML = newtable;
