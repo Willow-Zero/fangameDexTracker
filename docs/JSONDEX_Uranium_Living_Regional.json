@@ -113,7 +113,8 @@
    "009":{
       "Name":"Birbie",
       "Type":{
-         
+         "Primary":"Normal",
+         "Secondary":"Flying"
       },
       "Evolutions":{
          
@@ -126,7 +127,8 @@
    "010":{
       "Name":"Aveden",
       "Type":{
-         
+         "Primary":"Normal",
+         "Secondary":"Flying"
       },
       "Evolutions":{
          
@@ -134,12 +136,13 @@
       "Preevoluitons":{
          
       },
-      "Obtaining":"Route 05"
+      "Obtaining":""
    },
    "011":{
       "Name":"Splendifowl",
       "Type":{
-         
+         "Primary":"Normal",
+         "Secondary":"Flying"
       },
       "Evolutions":{
          
@@ -150,9 +153,9 @@
       "Obtaining":""
    },
    "012":{
-      "Name":"Cubbug",
+      "Name":"CubBug",
       "Type":{
-         
+         "Primary":"Bug"
       },
       "Evolutions":{
          
@@ -165,7 +168,8 @@
    "013":{
       "Name":"Cubblfly",
       "Type":{
-         
+         "Primary":"Bug",
+         "Secondary":"Fairy"
       },
       "Evolutions":{
          
@@ -178,7 +182,8 @@
    "014":{
       "Name":"Nimflora",
       "Type":{
-         
+         "Primary":"Bug",
+         "Secondary":"Fairy"
       },
       "Evolutions":{
          
@@ -191,7 +196,8 @@
    "015":{
       "Name":"Barewl",
       "Type":{
-         
+         "Primary":"Steel",
+         "Secondary":"Rock"
       },
       "Evolutions":{
          
@@ -202,9 +208,10 @@
       "Obtaining":""
    },
    "016":{
-      "Name":"Dearwl",
+      "Name":"Dearewl",
       "Type":{
-         
+         "Primary":"Steel",
+         "Secondary":"Rock"
       },
       "Evolutions":{
          
@@ -217,7 +224,7 @@
    "017":{
       "Name":"Gararewl",
       "Type":{
-         
+         "Primary":"Steel"
       },
       "Evolutions":{
          
@@ -230,7 +237,7 @@
    "018":{
       "Name":"Grozard",
       "Type":{
-         
+         "Primary":"Ground"
       },
       "Evolutions":{
          
@@ -243,7 +250,8 @@
    "019":{
       "Name":"Terlard",
       "Type":{
-         
+         "Primary":"Ground",
+         "Secondary":"Dragon"
       },
       "Evolutions":{
          
@@ -256,7 +264,7 @@
    "020":{
       "Name":"Tonemy",
       "Type":{
-         
+         "Primary":"Poison"
       },
       "Evolutions":{
          
@@ -269,7 +277,7 @@
    "021":{
       "Name":"Tofurang",
       "Type":{
-         
+         "Primary":"Poison"
       },
       "Evolutions":{
          
@@ -282,7 +290,7 @@
    "022":{
       "Name":"Dunsparce",
       "Type":{
-         
+         "Primary":"Normal"
       },
       "Evolutions":{
          
@@ -295,7 +303,8 @@
    "023":{
       "Name":"Dunseraph",
       "Type":{
-         
+         "Primary":"Dragon",
+         "Secondary":"Flying"
       },
       "Evolutions":{
          
@@ -306,9 +315,10 @@
       "Obtaining":""
    },
    "024":{
-      "Name":"",
+      "Name":"Fortog",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Poison"
       },
       "Evolutions":{
          
@@ -319,9 +329,10 @@
       "Obtaining":""
    },
    "025":{
-      "Name":"",
+      "Name":"Folerog",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Poison"
       },
       "Evolutions":{
          
@@ -332,9 +343,10 @@
       "Obtaining":""
    },
    "026":{
-      "Name":"",
+      "Name":"Blubelrog",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Poison"
       },
       "Evolutions":{
          
@@ -345,9 +357,9 @@
       "Obtaining":""
    },
    "027":{
-      "Name":"",
+      "Name":"Magikarp",
       "Type":{
-         
+         "Primary":"Water"
       },
       "Evolutions":{
          
@@ -358,9 +370,10 @@
       "Obtaining":""
    },
    "028":{
-      "Name":"",
+      "Name":"Gyarados",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Flying"
       },
       "Evolutions":{
          
@@ -371,9 +384,9 @@
       "Obtaining":""
    },
    "029":{
-      "Name":"",
+      "Name":"Feleng",
       "Type":{
-         
+         "Primary":"Normal"
       },
       "Evolutions":{
          
@@ -384,9 +397,9 @@
       "Obtaining":""
    },
    "030":{
-      "Name":"",
+      "Name":"Felunge",
       "Type":{
-         
+         "Primary":"Normal"
       },
       "Evolutions":{
          
@@ -397,9 +410,9 @@
       "Obtaining":""
    },
    "031":{
-      "Name":"",
+      "Name":"Feliger",
       "Type":{
-         
+         "Primary":"Normal"
       },
       "Evolutions":{
          
@@ -410,9 +423,9 @@
       "Obtaining":""
    },
    "032":{
-      "Name":"",
+      "Name":"Mankey",
       "Type":{
-         
+         "Primary":"Fighting"
       },
       "Evolutions":{
          
@@ -423,9 +436,9 @@
       "Obtaining":""
    },
    "033":{
-      "Name":"",
+      "Name":"Primeape",
       "Type":{
-         
+         "Primary":"Fighting"
       },
       "Evolutions":{
          
@@ -436,9 +449,9 @@
       "Obtaining":""
    },
    "034":{
-      "Name":"",
+      "Name":"Empirilla",
       "Type":{
-         
+         "Primary":"Fighting"
       },
       "Evolutions":{
          
@@ -449,9 +462,10 @@
       "Obtaining":""
    },
    "035":{
-      "Name":"",
+      "Name":"Owten",
       "Type":{
-         
+         "Primary":"Normal",
+         "Secondary":"Flying"
       },
       "Evolutions":{
          
@@ -462,9 +476,10 @@
       "Obtaining":""
    },
    "036":{
-      "Name":"",
+      "Name":"Eshouten",
       "Type":{
-         
+         "Primary":"Normal",
+         "Secondary":"Flying"
       },
       "Evolutions":{
          
@@ -475,9 +490,10 @@
       "Obtaining":""
    },
    "037":{
-      "Name":"",
+      "Name":"Lotad",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Grass"
       },
       "Evolutions":{
          
@@ -488,9 +504,10 @@
       "Obtaining":""
    },
    "038":{
-      "Name":"",
+      "Name":"Lombre",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Grass"
       },
       "Evolutions":{
          
@@ -501,9 +518,10 @@
       "Obtaining":""
    },
    "039":{
-      "Name":"",
+      "Name":"Ludicolo",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Grass"
       },
       "Evolutions":{
          
@@ -514,9 +532,9 @@
       "Obtaining":""
    },
    "040":{
-      "Name":"",
+      "Name":"Smore",
       "Type":{
-         
+         "Primary":"Bug"
       },
       "Evolutions":{
          
@@ -527,9 +545,10 @@
       "Obtaining":""
    },
    "041":{
-      "Name":"",
+      "Name":"Firoke",
       "Type":{
-         
+         "Primary":"Bug",
+         "Secondary":"Fire"
       },
       "Evolutions":{
          
@@ -540,9 +559,10 @@
       "Obtaining":""
    },
    "042":{
-      "Name":"",
+      "Name":"Brailip",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Psychic"
       },
       "Evolutions":{
          
@@ -553,9 +573,10 @@
       "Obtaining":""
    },
    "043":{
-      "Name":"",
+      "Name":"Brainoar",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Psychic"
       },
       "Evolutions":{
          
@@ -566,9 +587,9 @@
       "Obtaining":""
    },
    "044":{
-      "Name":"",
+      "Name":"Ekans",
       "Type":{
-         
+         "Primary":"Poison"
       },
       "Evolutions":{
          
@@ -579,9 +600,9 @@
       "Obtaining":""
    },
    "045":{
-      "Name":"",
+      "Name":"Arbok",
       "Type":{
-         
+         "Primary":"Poison"
       },
       "Evolutions":{
          
@@ -592,9 +613,10 @@
       "Obtaining":""
    },
    "046":{
-      "Name":"",
+      "Name":"Tancoon",
       "Type":{
-         
+         "Primary":"Dark",
+         "Secondary":"Normal"
       },
       "Evolutions":{
          
@@ -605,9 +627,10 @@
       "Obtaining":""
    },
    "047":{
-      "Name":"",
+      "Name":"Tanscure",
       "Type":{
-         
+         "Primary":"Dark",
+         "Secondary":"Normal"
       },
       "Evolutions":{
          
@@ -618,9 +641,9 @@
       "Obtaining":""
    },
    "048":{
-      "Name":"",
+      "Name":"Sponee",
       "Type":{
-         
+         "Primary":"Bug"
       },
       "Evolutions":{
          
@@ -631,9 +654,10 @@
       "Obtaining":""
    },
    "049":{
-      "Name":"",
+      "Name":"Sponaree",
       "Type":{
-         
+         "Primary":"Bug",
+         "Secondary":"Water"
       },
       "Evolutions":{
          
@@ -644,9 +668,10 @@
       "Obtaining":""
    },
    "050":{
-      "Name":"",
+      "Name":"Pahar",
       "Type":{
-         
+         "Primary":"Fire",
+         "Secondary":"Flying"
       },
       "Evolutions":{
          
@@ -657,9 +682,10 @@
       "Obtaining":""
    },
    "051":{
-      "Name":"",
+      "Name":"Palij",
       "Type":{
-         
+         "Primary":"Fire",
+         "Secondary":"Flying"
       },
       "Evolutions":{
          
@@ -670,9 +696,10 @@
       "Obtaining":""
    },
    "052":{
-      "Name":"",
+      "Name":"Pajay",
       "Type":{
-         
+         "Primary":"Fire",
+         "Secondary":"Flying"
       },
       "Evolutions":{
          
@@ -683,9 +710,10 @@
       "Obtaining":""
    },
    "053":{
-      "Name":"",
+      "Name":"Jerbolta",
       "Type":{
-         
+         "Primary":"Electric",
+         "Secondary":"Ground"
       },
       "Evolutions":{
          
@@ -696,9 +724,9 @@
       "Obtaining":""
    },
    "054":{
-      "Name":"",
+      "Name":"Comite",
       "Type":{
-         
+         "Primary":"Rock"
       },
       "Evolutions":{
          
@@ -709,9 +737,10 @@
       "Obtaining":""
    },
    "055":{
-      "Name":"",
+      "Name":"Cometeor",
       "Type":{
-         
+         "Primary":"Rock",
+         "Secondary":"Psychic"
       },
       "Evolutions":{
          
@@ -722,9 +751,10 @@
       "Obtaining":""
    },
    "056":{
-      "Name":"",
+      "Name":"Astronite",
       "Type":{
-         
+         "Primary":"Rock",
+         "Secondary":"Psychic"
       },
       "Evolutions":{
          
@@ -735,9 +765,9 @@
       "Obtaining":""
    },
    "057":{
-      "Name":"",
+      "Name":"Mareep",
       "Type":{
-         
+         "Primary":"Electric"
       },
       "Evolutions":{
          
@@ -748,9 +778,9 @@
       "Obtaining":""
    },
    "058":{
-      "Name":"",
+      "Name":"Flaaffy",
       "Type":{
-         
+         "Primary":"Electric"
       },
       "Evolutions":{
          
@@ -761,9 +791,9 @@
       "Obtaining":""
    },
    "059":{
-      "Name":"",
+      "Name":"Ampharos",
       "Type":{
-         
+         "Primary":"Electric"
       },
       "Evolutions":{
          
@@ -774,9 +804,10 @@
       "Obtaining":""
    },
    "060":{
-      "Name":"",
+      "Name":"Baashaun",
       "Type":{
-         
+         "Primary":"Dark",
+         "Secondary":"Fighting"
       },
       "Evolutions":{
          
@@ -787,9 +818,10 @@
       "Obtaining":""
    },
    "061":{
-      "Name":"",
+      "Name":"Baaschaf",
       "Type":{
-         
+         "Primary":"Dark",
+         "Secondary":"Fighting"
       },
       "Evolutions":{
          
@@ -800,9 +832,10 @@
       "Obtaining":""
    },
    "062":{
-      "Name":"",
+      "Name":"Baariette",
       "Type":{
-         
+         "Primary":"Dark",
+         "Secondary":"Fighting"
       },
       "Evolutions":{
          
@@ -813,9 +846,9 @@
       "Obtaining":""
    },
    "063":{
-      "Name":"",
+      "Name":"Tricwe",
       "Type":{
-         
+         "Primary":"Bug"
       },
       "Evolutions":{
          
@@ -826,9 +859,10 @@
       "Obtaining":""
    },
    "064":{
-      "Name":"",
+      "Name":"Harylect",
       "Type":{
-         
+         "Primary":"Bug",
+         "Secondary":"Electric"
       },
       "Evolutions":{
          
@@ -839,9 +873,10 @@
       "Obtaining":""
    },
    "065":{
-      "Name":"",
+      "Name":"Costraw",
       "Type":{
-         
+         "Primary":"Poison",
+         "Secondary":"Psychic"
       },
       "Evolutions":{
          
@@ -852,9 +887,10 @@
       "Obtaining":""
    },
    "066":{
-      "Name":"",
+      "Name":"Trawpint",
       "Type":{
-         
+         "Primary":"Poison",
+         "Secondary":"Psychic"
       },
       "Evolutions":{
          
@@ -865,9 +901,10 @@
       "Obtaining":""
    },
    "067":{
-      "Name":"",
+      "Name":"Lunapup",
       "Type":{
-         
+         "Primary":"Ground",
+         "Secondary":"Fighting"
       },
       "Evolutions":{
          
@@ -878,9 +915,10 @@
       "Obtaining":""
    },
    "068":{
-      "Name":"",
+      "Name":"Herolune",
       "Type":{
-         
+         "Primary":"Ground",
+         "Secondary":"Fighting"
       },
       "Evolutions":{
          
@@ -891,9 +929,10 @@
       "Obtaining":""
    },
    "069":{
-      "Name":"",
+      "Name":"Minyan",
       "Type":{
-         
+         "Primary":"Dark",
+         "Secondary":"Poison"
       },
       "Evolutions":{
          
@@ -904,9 +943,10 @@
       "Obtaining":""
    },
    "070":{
-      "Name":"",
+      "Name":"Vilucard",
       "Type":{
-         
+         "Primary":"Dark",
+         "Secondary":"Poison"
       },
       "Evolutions":{
          
@@ -917,9 +957,9 @@
       "Obtaining":""
    },
    "071":{
-      "Name":"",
+      "Name":"Buizel",
       "Type":{
-         
+         "Primary":"Water"
       },
       "Evolutions":{
          
@@ -930,9 +970,9 @@
       "Obtaining":""
    },
    "072":{
-      "Name":"",
+      "Name":"Floatzel",
       "Type":{
-         
+         "Primary":"Water"
       },
       "Evolutions":{
          
@@ -943,9 +983,10 @@
       "Obtaining":""
    },
    "073":{
-      "Name":"",
+      "Name":"Modrille",
       "Type":{
-         
+         "Primary":"Ground",
+         "Secondary":"Dark"
       },
       "Evolutions":{
          
@@ -956,9 +997,10 @@
       "Obtaining":""
    },
    "074":{
-      "Name":"",
+      "Name":"Drilgann",
       "Type":{
-         
+         "Primary":"Ground",
+         "Secondary":"Dark"
       },
       "Evolutions":{
          
@@ -969,9 +1011,10 @@
       "Obtaining":""
    },
    "075":{
-      "Name":"",
+      "Name":"Gligar",
       "Type":{
-         
+         "Primary":"Ground",
+         "Secondary":"Flying"
       },
       "Evolutions":{
          
@@ -982,9 +1025,10 @@
       "Obtaining":""
    },
    "076":{
-      "Name":"",
+      "Name":"Gliscor",
       "Type":{
-         
+         "Primary":"Ground",
+         "Secondary":"Flying"
       },
       "Evolutions":{
          
@@ -995,9 +1039,10 @@
       "Obtaining":""
    },
    "077":{
-      "Name":"",
+      "Name":"Sableye",
       "Type":{
-         
+         "Primary":"Dark",
+         "Secondary":"Ghost"
       },
       "Evolutions":{
          
@@ -1008,9 +1053,10 @@
       "Obtaining":""
    },
    "078":{
-      "Name":"",
+      "Name":"Cocaran",
       "Type":{
-         
+         "Primary":"Grass",
+         "Secondary":"Ground"
       },
       "Evolutions":{
          
@@ -1021,9 +1067,10 @@
       "Obtaining":""
    },
    "079":{
-      "Name":"",
+      "Name":"Cararalm",
       "Type":{
-         
+         "Primary":"Grass",
+         "Secondary":"Ground"
       },
       "Evolutions":{
          
@@ -1034,9 +1081,10 @@
       "Obtaining":""
    },
    "080":{
-      "Name":"",
+      "Name":"Cocancer",
       "Type":{
-         
+         "Primary":"Grass",
+         "Secondary":"Ground"
       },
       "Evolutions":{
          
@@ -1047,9 +1095,10 @@
       "Obtaining":""
    },
    "081":{
-      "Name":"",
+      "Name":"Corsola",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Rock"
       },
       "Evolutions":{
          
@@ -1060,9 +1109,10 @@
       "Obtaining":""
    },
    "082":{
-      "Name":"",
+      "Name":"Corsoreef",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Rock"
       },
       "Evolutions":{
          
@@ -1073,9 +1123,10 @@
       "Obtaining":""
    },
    "083":{
-      "Name":"",
+      "Name":"Tubjaw",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Dark"
       },
       "Evolutions":{
          
@@ -1086,9 +1137,10 @@
       "Obtaining":""
    },
    "084":{
-      "Name":"",
+      "Name":"Tubareel",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Dark"
       },
       "Evolutions":{
          
@@ -1099,9 +1151,10 @@
       "Obtaining":""
    },
    "085":{
-      "Name":"",
+      "Name":"Cassnail",
       "Type":{
-         
+         "Primary":"Ground",
+         "Secondary":"Water"
       },
       "Evolutions":{
          
@@ -1112,9 +1165,10 @@
       "Obtaining":""
    },
    "086":{
-      "Name":"",
+      "Name":"Sableau",
       "Type":{
-         
+         "Primary":"Ground",
+         "Secondary":"Water"
       },
       "Evolutions":{
          
@@ -1125,9 +1179,10 @@
       "Obtaining":""
    },
    "087":{
-      "Name":"",
+      "Name":"Escartress",
       "Type":{
-         
+         "Primary":"Ground",
+         "Secondary":"Water"
       },
       "Evolutions":{
          
@@ -1138,9 +1193,10 @@
       "Obtaining":""
    },
    "088":{
-      "Name":"",
+      "Name":"Nupin",
       "Type":{
-         
+         "Primary":"Grass",
+         "Secondary":"Electric"
       },
       "Evolutions":{
          
@@ -1151,9 +1207,10 @@
       "Obtaining":""
    },
    "089":{
-      "Name":"",
+      "Name":"Gellin",
       "Type":{
-         
+         "Primary":"Grass",
+         "Secondary":"Electric"
       },
       "Evolutions":{
          
@@ -1164,9 +1221,10 @@
       "Obtaining":""
    },
    "090":{
-      "Name":"",
+      "Name":"Cottonee",
       "Type":{
-         
+         "Primary":"Grass",
+         "Secondary":"Fairy"
       },
       "Evolutions":{
          
@@ -1177,9 +1235,10 @@
       "Obtaining":""
    },
    "091":{
-      "Name":"",
+      "Name":"Whimsicott",
       "Type":{
-         
+         "Primary":"Grass",
+         "Secondary":"Fairy"
       },
       "Evolutions":{
          
@@ -1190,9 +1249,9 @@
       "Obtaining":""
    },
    "092":{
-      "Name":"",
+      "Name":"Misdreavus",
       "Type":{
-         
+         "Primary":"Ghost"
       },
       "Evolutions":{
          
@@ -1203,9 +1262,9 @@
       "Obtaining":""
    },
    "093":{
-      "Name":"",
+      "Name":"Mismagius",
       "Type":{
-         
+         "Primary":"Ghost"
       },
       "Evolutions":{
          
@@ -1216,9 +1275,9 @@
       "Obtaining":""
    },
    "094":{
-      "Name":"",
+      "Name":"Barand",
       "Type":{
-         
+         "Primary":"Dragon"
       },
       "Evolutions":{
          
@@ -1229,9 +1288,10 @@
       "Obtaining":""
    },
    "095":{
-      "Name":"",
+      "Name":"Glaslug",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Ice"
       },
       "Evolutions":{
          
@@ -1242,9 +1302,10 @@
       "Obtaining":""
    },
    "096":{
-      "Name":"",
+      "Name":"Glavinug",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Ice"
       },
       "Evolutions":{
          
@@ -1255,9 +1316,10 @@
       "Obtaining":""
    },
    "097":{
-      "Name":"",
+      "Name":"S51",
       "Type":{
-         
+         "Primary":"Psychic",
+         "Secondary":"Steel"
       },
       "Evolutions":{
          
@@ -1268,9 +1330,10 @@
       "Obtaining":""
    },
    "098":{
-      "Name":"",
+      "Name":"S51-A",
       "Type":{
-         
+         "Primary":"Psychic",
+         "Secondary":"Steel"
       },
       "Evolutions":{
          
@@ -1281,9 +1344,10 @@
       "Obtaining":""
    },
    "099":{
-      "Name":"",
+      "Name":"Paraudio",
       "Type":{
-         
+         "Primary":"Normal",
+         "Secondary":"Psychic"
       },
       "Evolutions":{
          
@@ -1294,9 +1358,10 @@
       "Obtaining":""
    },
    "100":{
-      "Name":"",
+      "Name":"Paraboom",
       "Type":{
-         
+         "Primary":"Normal",
+         "Secondary":"Psychic"
       },
       "Evolutions":{
          
@@ -1307,9 +1372,9 @@
       "Obtaining":""
    },
    "101":{
-      "Name":"",
+      "Name":"Flager",
       "Type":{
-         
+         "Primary":"Fire"
       },
       "Evolutions":{
          
@@ -1320,9 +1385,9 @@
       "Obtaining":""
    },
    "102":{
-      "Name":"",
+      "Name":"Inflagetah",
       "Type":{
-         
+         "Primary":"Fire"
       },
       "Evolutions":{
          
@@ -1333,9 +1398,10 @@
       "Obtaining":""
    },
    "103":{
-      "Name":"",
+      "Name":"Chimical",
       "Type":{
-         
+         "Primary":"Fire",
+         "Secondary":"Poison"
       },
       "Evolutions":{
          
@@ -1346,9 +1412,10 @@
       "Obtaining":""
    },
    "104":{
-      "Name":"",
+      "Name":"Chimaconda",
       "Type":{
-         
+         "Primary":"Fire",
+         "Secondary":"Poison"
       },
       "Evolutions":{
          
@@ -1359,9 +1426,9 @@
       "Obtaining":""
    },
    "105":{
-      "Name":"",
+      "Name":"Tikiki",
       "Type":{
-         
+         "Primary":"Grass"
       },
       "Evolutions":{
          
@@ -1372,9 +1439,10 @@
       "Obtaining":""
    },
    "106":{
-      "Name":"",
+      "Name":"Frikitiki",
       "Type":{
-         
+         "Primary":"Grass",
+         "Secondary":"Fire"
       },
       "Evolutions":{
          
@@ -1385,9 +1453,9 @@
       "Obtaining":""
    },
    "107":{
-      "Name":"",
+      "Name":"Unymph",
       "Type":{
-         
+         "Primary":"Bug"
       },
       "Evolutions":{
          
@@ -1398,9 +1466,10 @@
       "Obtaining":""
    },
    "108":{
-      "Name":"",
+      "Name":"Harptera",
       "Type":{
-         
+         "Primary":"Bug",
+         "Secondary":"Flying"
       },
       "Evolutions":{
          
@@ -1411,9 +1480,9 @@
       "Obtaining":""
    },
    "109":{
-      "Name":"",
+      "Name":"Chicoatl",
       "Type":{
-         
+         "Primary":"Grass"
       },
       "Evolutions":{
          
@@ -1424,9 +1493,10 @@
       "Obtaining":""
    },
    "110":{
-      "Name":"",
+      "Name":"Quetzoral",
       "Type":{
-         
+         "Primary":"Grass",
+         "Secondary":"Flying"
       },
       "Evolutions":{
          
@@ -1437,9 +1507,10 @@
       "Obtaining":""
    },
    "111":{
-      "Name":"",
+      "Name":"Coatlith",
       "Type":{
-         
+         "Primary":"Grass",
+         "Secondary":"Dragon"
       },
       "Evolutions":{
          
@@ -1450,9 +1521,10 @@
       "Obtaining":""
    },
    "112":{
-      "Name":"",
+      "Name":"Tracton",
       "Type":{
-         
+         "Primary":"Dragon",
+         "Secondary":"Steel"
       },
       "Evolutions":{
          
@@ -1463,9 +1535,10 @@
       "Obtaining":""
    },
    "113":{
-      "Name":"",
+      "Name":"Snopach",
       "Type":{
-         
+         "Primary":"Ice",
+         "Secondary":"Rock"
       },
       "Evolutions":{
          
@@ -1476,9 +1549,10 @@
       "Obtaining":""
    },
    "114":{
-      "Name":"",
+      "Name":"Dermafrost",
       "Type":{
-         
+         "Primary":"Ice",
+         "Secondary":"Rock"
       },
       "Evolutions":{
          
@@ -1489,9 +1563,10 @@
       "Obtaining":""
    },
    "115":{
-      "Name":"",
+      "Name":"Slothohm",
       "Type":{
-         
+         "Primary":"Electric",
+         "Secondary":"Rock"
       },
       "Evolutions":{
          
@@ -1502,9 +1577,10 @@
       "Obtaining":""
    },
    "116":{
-      "Name":"",
+      "Name":"Theriamp",
       "Type":{
-         
+         "Primary":"Electric",
+         "Secondary":"Rock"
       },
       "Evolutions":{
          
@@ -1515,9 +1591,9 @@
       "Obtaining":""
    },
    "117":{
-      "Name":"",
+      "Name":"Titanice",
       "Type":{
-         
+         "Secondary":"Ice"
       },
       "Evolutions":{
          
@@ -1528,9 +1604,10 @@
       "Obtaining":""
    },
    "118":{
-      "Name":"",
+      "Name":"Frynai",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Steel"
       },
       "Evolutions":{
          
@@ -1541,9 +1618,10 @@
       "Obtaining":""
    },
    "119":{
-      "Name":"",
+      "Name":"Saidine",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Steel"
       },
       "Evolutions":{
          
@@ -1554,9 +1632,10 @@
       "Obtaining":""
    },
    "120":{
-      "Name":"",
+      "Name":"Daikatuna",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Steel"
       },
       "Evolutions":{
          
@@ -1567,9 +1646,10 @@
       "Obtaining":""
    },
    "121":{
-      "Name":"",
+      "Name":"Selkid",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Fairy"
       },
       "Evolutions":{
          
@@ -1580,9 +1660,10 @@
       "Obtaining":""
    },
    "122":{
-      "Name":"",
+      "Name":"Syrentide",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Fairy"
       },
       "Evolutions":{
          
@@ -1593,9 +1674,9 @@
       "Obtaining":""
    },
    "123":{
-      "Name":"",
+      "Name":"Spritzee",
       "Type":{
-         
+         "Primary":"Fairy"
       },
       "Evolutions":{
          
@@ -1606,9 +1687,9 @@
       "Obtaining":""
    },
    "124":{
-      "Name":"",
+      "Name":"Aromatisse",
       "Type":{
-         
+         "Primary":"Fairy"
       },
       "Evolutions":{
          
@@ -1619,9 +1700,10 @@
       "Obtaining":""
    },
    "125":{
-      "Name":"",
+      "Name":"Miasmedic",
       "Type":{
-         
+         "Primary":"Fairy",
+         "Secondary":"Poison"
       },
       "Evolutions":{
          
@@ -1632,9 +1714,10 @@
       "Obtaining":""
    },
    "126":{
-      "Name":"",
+      "Name":"Jackdeary",
       "Type":{
-         
+         "Primary":"Fairy",
+         "Secondary":"Fighting"
       },
       "Evolutions":{
          
@@ -1645,9 +1728,10 @@
       "Obtaining":""
    },
    "127":{
-      "Name":"",
+      "Name":"Winotinger",
       "Type":{
-         
+         "Primary":"Fairy",
+         "Secondary":"Fighting"
       },
       "Evolutions":{
          
@@ -1658,9 +1742,9 @@
       "Obtaining":""
    },
    "128":{
-      "Name":"",
+      "Name":"Duplicat",
       "Type":{
-         
+         "Primary":"Normal"
       },
       "Evolutions":{
          
@@ -1671,9 +1755,9 @@
       "Obtaining":""
    },
    "129":{
-      "Name":"",
+      "Name":"Eevee",
       "Type":{
-         
+         "Primary":"Normal"
       },
       "Evolutions":{
          
@@ -1684,9 +1768,9 @@
       "Obtaining":""
    },
    "130":{
-      "Name":"",
+      "Name":"Vaporeon",
       "Type":{
-         
+         "Primary":"Water"
       },
       "Evolutions":{
          
@@ -1697,9 +1781,9 @@
       "Obtaining":""
    },
    "131":{
-      "Name":"",
+      "Name":"Jolteon",
       "Type":{
-         
+         "Primary":"Electric"
       },
       "Evolutions":{
          
@@ -1710,9 +1794,9 @@
       "Obtaining":""
    },
    "132":{
-      "Name":"",
+      "Name":"Flareon",
       "Type":{
-         
+         "Primary":"Fire"
       },
       "Evolutions":{
          
@@ -1723,9 +1807,9 @@
       "Obtaining":""
    },
    "133":{
-      "Name":"",
+      "Name":"Espeon",
       "Type":{
-         
+         "Primary":"Psychic"
       },
       "Evolutions":{
          
@@ -1736,9 +1820,9 @@
       "Obtaining":""
    },
    "134":{
-      "Name":"",
+      "Name":"Umbreon",
       "Type":{
-         
+         "Primary":"Dark"
       },
       "Evolutions":{
          
@@ -1749,9 +1833,9 @@
       "Obtaining":""
    },
    "135":{
-      "Name":"",
+      "Name":"Leafeon",
       "Type":{
-         
+         "Primary":"Grass"
       },
       "Evolutions":{
          
@@ -1762,9 +1846,9 @@
       "Obtaining":""
    },
    "136":{
-      "Name":"",
+      "Name":"Glaceon",
       "Type":{
-         
+         "Primary":"Ice"
       },
       "Evolutions":{
          
@@ -1775,9 +1859,9 @@
       "Obtaining":""
    },
    "137":{
-      "Name":"",
+      "Name":"Sylveon",
       "Type":{
-         
+         "Primary":"Fairy"
       },
       "Evolutions":{
          
@@ -1788,9 +1872,9 @@
       "Obtaining":""
    },
    "138":{
-      "Name":"",
+      "Name":"Nucleon",
       "Type":{
-         
+         "Primary":"Nuclear"
       },
       "Evolutions":{
          
@@ -1801,9 +1885,9 @@
       "Obtaining":""
    },
    "139":{
-      "Name":"",
+      "Name":"Ratsy",
       "Type":{
-         
+         "Primary":"Dark"
       },
       "Evolutions":{
          
@@ -1814,9 +1898,9 @@
       "Obtaining":""
    },
    "140":{
-      "Name":"",
+      "Name":"Raffiti",
       "Type":{
-         
+         "Primary":"Dark"
       },
       "Evolutions":{
          
@@ -1827,9 +1911,9 @@
       "Obtaining":""
    },
    "141":{
-      "Name":"",
+      "Name":"Gargryph",
       "Type":{
-         
+         "Primary":"Rock"
       },
       "Evolutions":{
          
@@ -1840,9 +1924,9 @@
       "Obtaining":""
    },
    "142":{
-      "Name":"",
+      "Name":"Masking",
       "Type":{
-         
+         "Primary":"Psychic"
       },
       "Evolutions":{
          
@@ -1853,9 +1937,10 @@
       "Obtaining":""
    },
    "143":{
-      "Name":"",
+      "Name":"Dramsama",
       "Type":{
-         
+         "Primary":"Psychic",
+         "Secondary":"Ghost"
       },
       "Evolutions":{
          
@@ -1866,9 +1951,10 @@
       "Obtaining":""
    },
    "144":{
-      "Name":"",
+      "Name":"Antarki",
       "Type":{
-         
+         "Primary":"Ghost",
+         "Secondary":"Fire"
       },
       "Evolutions":{
          
@@ -1879,9 +1965,9 @@
       "Obtaining":""
    },
    "145":{
-      "Name":"",
+      "Name":"Chupacho",
       "Type":{
-         
+         "Primary":"Poison"
       },
       "Evolutions":{
          
@@ -1892,9 +1978,10 @@
       "Obtaining":""
    },
    "146":{
-      "Name":"",
+      "Name":"Luchabra",
       "Type":{
-         
+         "Primary":"Poison",
+         "Secondary":"Fighting"
       },
       "Evolutions":{
          
@@ -1905,9 +1992,9 @@
       "Obtaining":""
    },
    "147":{
-      "Name":"",
+      "Name":"Linkite",
       "Type":{
-         
+         "Primary":"Ghost"
       },
       "Evolutions":{
          
@@ -1918,9 +2005,10 @@
       "Obtaining":""
    },
    "148":{
-      "Name":"",
+      "Name":"Chainite",
       "Type":{
-         
+         "Primary":"Ghost",
+         "Secondary":"Dark"
       },
       "Evolutions":{
          
@@ -1933,7 +2021,8 @@
    "149":{
       "Name":"Pufluff",
       "Type":{
-         
+         "Primary":"Ice",
+         "Secondary":"Fairy"
       },
       "Evolutions":{
          
@@ -1946,7 +2035,8 @@
    "150":{
       "Name":"Alpico",
       "Type":{
-         
+         "Primary":"Ice",
+         "Secondary":"Fairy"
       },
       "Evolutions":{
          
@@ -1959,7 +2049,8 @@
    "151":{
       "Name":"Anderind",
       "Type":{
-         
+         "Primary":"Ice",
+         "Secondary":"Ground"
       },
       "Evolutions":{
          
@@ -1972,7 +2063,8 @@
    "152":{
       "Name":"Colarva",
       "Type":{
-         
+         "Primary":"Bug",
+         "Secondary":"Ice"
       },
       "Evolutions":{
          
@@ -1985,7 +2077,8 @@
    "153":{
       "Name":"Frosulo",
       "Type":{
-         
+         "Primary":"Bug",
+         "Secondary":"Ice"
       },
       "Evolutions":{
          
@@ -1998,7 +2091,8 @@
    "154":{
       "Name":"Frosthra",
       "Type":{
-         
+         "Primary":"Bug",
+         "Secondary":"Ice"
       },
       "Evolutions":{
          
@@ -2011,7 +2105,8 @@
    "155":{
       "Name":"Fafurr",
       "Type":{
-         
+         "Primary":"Ice",
+         "Secondary":"Dragon"
       },
       "Evolutions":{
          
@@ -2024,7 +2119,8 @@
    "156":{
       "Name":"Fafninter",
       "Type":{
-         
+         "Primary":"Ice",
+         "Secondary":"Dragon"
       },
       "Evolutions":{
          
@@ -2037,7 +2133,8 @@
    "157":{
       "Name":"Shrimputy",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Fire"
       },
       "Evolutions":{
          
@@ -2050,7 +2147,8 @@
    "158":{
       "Name":"Krilvolver",
       "Type":{
-         
+         "Primary":"Water",
+         "Secondary":"Fire"
       },
       "Evolutions":{
          
@@ -2063,7 +2161,8 @@
    "159":{
       "Name":"Lavent",
       "Type":{
-         
+         "Primary":"Fire",
+         "Secondary":"Dragon"
       },
       "Evolutions":{
          
@@ -2076,7 +2175,8 @@
    "160":{
       "Name":"Swabone",
       "Type":{
-         
+         "Primary":"Ghost",
+         "Secondary":"Fighting"
       },
       "Evolutions":{
          
@@ -2089,7 +2189,8 @@
    "161":{
       "Name":"Skelerogue",
       "Type":{
-         
+         "Primary":"Ghost",
+         "Secondary":"Fighting"
       },
       "Evolutions":{
          
@@ -2102,7 +2203,8 @@
    "162":{
       "Name":"Navighast",
       "Type":{
-         
+         "Primary":"Ghost",
+         "Secondary":"Fighting"
       },
       "Evolutions":{
          
@@ -2115,7 +2217,7 @@
    "163":{
       "Name":"Stenowatt",
       "Type":{
-         
+         "Primary":"Electric"
       },
       "Evolutions":{
          
@@ -2128,7 +2230,8 @@
    "164":{
       "Name":"Jungore",
       "Type":{
-         
+         "Primary":"Fighting",
+         "Secondary":"Rock"
       },
       "Evolutions":{
          
@@ -2141,7 +2244,8 @@
    "165":{
       "Name":"Majungold",
       "Type":{
-         
+         "Primary":"Fighting",
+         "Secondary":"Rock"
       },
       "Evolutions":{
          
@@ -2152,9 +2256,10 @@
       "Obtaining":""
    },
    "166":{
-      "Name":"Haagoop",
+      "Name":"Hagoop",
       "Type":{
-         
+         "Primary":"Poison",
+         "Secondary":"Electric"
       },
       "Evolutions":{
          
@@ -2167,7 +2272,8 @@
    "167":{
       "Name":"Haagross",
       "Type":{
-         
+         "Primary":"Poison",
+         "Secondary":"Electric"
       },
       "Evolutions":{
          
@@ -2180,7 +2286,7 @@
    "168":{
       "Name":"Xenomite",
       "Type":{
-         
+         "Primary":"Nuclear"
       },
       "Evolutions":{
          
@@ -2193,7 +2299,7 @@
    "169":{
       "Name":"Xenogen",
       "Type":{
-         
+         "Primary":"Nuclear"
       },
       "Evolutions":{
          
@@ -2206,7 +2312,7 @@
    "170":{
       "Name":"Xenoqueen",
       "Type":{
-         
+         "Primary":"Nuclear"
       },
       "Evolutions":{
          
@@ -2219,7 +2325,7 @@
    "171":{
       "Name":"Hazma",
       "Type":{
-         
+         "Primary":"Nuclear"
       },
       "Evolutions":{
          
@@ -2232,7 +2338,8 @@
    "172":{
       "Name":"Geigeroach",
       "Type":{
-         
+         "Primary":"Bug",
+         "Secondary":"Nuclear"
       },
       "Evolutions":{
          
@@ -2245,7 +2352,8 @@
    "173":{
       "Name":"Minicorn",
       "Type":{
-         
+         "Primary":"Fairy",
+         "Secondary":"Normal"
       },
       "Evolutions":{
          
@@ -2258,7 +2366,8 @@
    "174":{
       "Name":"Kiricorn",
       "Type":{
-         
+         "Primary":"Fairy",
+         "Secondary":"Normal"
       },
       "Evolutions":{
          
@@ -2271,7 +2380,8 @@
    "175":{
       "Name":"Oblivicorn",
       "Type":{
-         
+         "Primary":"Fairy",
+         "Secondary":"Dark"
       },
       "Evolutions":{
          
@@ -2284,7 +2394,8 @@
    "176":{
       "Name":"Luxi",
       "Type":{
-         
+         "Primary":"Dragon",
+         "Secondary":"Fairy"
       },
       "Evolutions":{
          
@@ -2297,7 +2408,8 @@
    "177":{
       "Name":"Luxor",
       "Type":{
-         
+         "Primary":"Dragon",
+         "Secondary":"Fairy"
       },
       "Evolutions":{
          
@@ -2310,7 +2422,8 @@
    "178":{
       "Name":"Luxelong",
       "Type":{
-         
+         "Primary":"Dragon",
+         "Secondary":"Fairy"
       },
       "Evolutions":{
          
@@ -2323,7 +2436,8 @@
    "179":{
       "Name":"Praseopunk",
       "Type":{
-         
+         "Primary":"Psychic",
+         "Secondary":"Electric"
       },
       "Evolutions":{
          
@@ -2336,7 +2450,8 @@
    "180":{
       "Name":"Neopunk",
       "Type":{
-         
+         "Primary":"Psychic",
+         "Secondary":"Electric"
       },
       "Evolutions":{
          
@@ -2349,7 +2464,7 @@
    "181":{
       "Name":"Sheebit",
       "Type":{
-         
+         "Primary":"Ground"
       },
       "Evolutions":{
          
@@ -2362,7 +2477,7 @@
    "182":{
       "Name":"Terrabbit",
       "Type":{
-         
+         "Primary":"Ground"
       },
       "Evolutions":{
          
@@ -2375,7 +2490,7 @@
    "183":{
       "Name":"Laissure",
       "Type":{
-         
+         "Primary":"Ground"
       },
       "Evolutions":{
          
@@ -2388,7 +2503,8 @@
    "184":{
       "Name":"Volchik",
       "Type":{
-         
+         "Primary":"Electric",
+         "Secondary":"Flying"
       },
       "Evolutions":{
          
@@ -2401,7 +2517,8 @@
    "185":{
       "Name":"Voltasu",
       "Type":{
-         
+         "Primary":"Electric",
+         "Secondary":"Flying"
       },
       "Evolutions":{
          
@@ -2414,7 +2531,8 @@
    "186":{
       "Name":"Yatagaryu",
       "Type":{
-         
+         "Primary":"Electric",
+         "Secondary":"Dragon"
       },
       "Evolutions":{
          
@@ -2427,7 +2545,8 @@
    "187":{
       "Name":"Devimp",
       "Type":{
-         
+         "Primary":"Fire",
+         "Secondary":"Dark"
       },
       "Evolutions":{
          
@@ -2440,7 +2559,8 @@
    "188":{
       "Name":"Fallengel",
       "Type":{
-         
+         "Primary":"Fire",
+         "Secondary":"Dark"
       },
       "Evolutions":{
          
@@ -2451,9 +2571,10 @@
       "Obtaining":""
    },
    "189":{
-      "Name":"Beladdon",
+      "Name":"Beliaddon",
       "Type":{
-         
+         "Primary":"Fire",
+         "Secondary":"Dark"
       },
       "Evolutions":{
          
