@@ -23,9 +23,9 @@ $.getJSON(dexJSONURL, function(dex){
       newtable +=' style="background-color:yellow"> ';}
     else{
       newtable +=">";}
-    newtable += i + " - " + Data[i]["Name"] + "<br><img src="+i+"_"+Data[i]["Name"]+".png>" + "<br><img src=" + Data[i]["Type"]["Primary"] + ".png>";
+    newtable += i + " - " + Data[i]["Name"] + "<br><img src=img/"+i+"_"+Data[i]["Name"]+".png>" + "<br><img src=img/" + Data[i]["Type"]["Primary"] + ".png>";
     if (Data[i]["Type"]["Secondary"]){
-    	newtable += "<img src=" + Data[i]["Type"]["Secondary"] + ".png>";
+    	newtable += "<img src=img/" + Data[i]["Type"]["Secondary"] + ".png>";
     }
     newtable += "<br>" +Data[i]["Obtaining"];
     if (Data[i]["Evolutions"]["1"]){
